@@ -40,11 +40,11 @@
 
 ---
 
-<img align="left" alt="hannanhafeez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hannanhafeez&show_icons=true&hide_border=false&theme=blue-green&include_all_commits=true&count_private=true" />
+<img align="left" alt="hannanhafeez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hannanhafeez&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=30000" />
 
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hannanhafeez&layout=compact&theme=blue-green&include_all_commits=true&count_private=true" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannanhafeez&hide=R,HTML&layout=compact&count_private=true&include_all_commits=true" />
 
 
 <!-- [website]: https://codeSTACKr.com -->
