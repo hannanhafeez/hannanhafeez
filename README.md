@@ -47,7 +47,7 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannanhafeez&hide=R,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
 
 
-[website]: https://sway.office.com/9fgtBPVJaEEpeI32?ref=Link&loc=mysways
+[website]: https://sway.office.com/9fgtBPVJaEEpeI32?ref=Link
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/hannan_hafeez
