@@ -51,7 +51,7 @@
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/hannan_hafeez
-[linkedin]: https://www.linkedin.com/in/hannan-hafeez-1b99a1113
+[linkedin]: https://www.linkedin.com/in/hannan-hafeez
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 <!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
 <!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
