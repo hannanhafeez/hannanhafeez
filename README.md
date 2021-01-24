@@ -3,7 +3,7 @@
 ## I'm a Learner, Doer, and a Tech Geek!
 - 🔭 I’m currently working as an iOS Developer and getting my hands dirty with React Native in parallel!
 - 🌱 I want to learn everything 🤣
-- 🥅 2020 Goals: Learn and use effecient design patters in my apps.
+- 🥅 2021 Goals: Learn and use effecient design patters in my apps.
 - ⚡ Fun fact: I love to draw and listen to good old country music.
 
 ### Connect with me:
