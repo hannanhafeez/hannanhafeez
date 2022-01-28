@@ -1,10 +1,9 @@
 ### Hi there, I'm Hannan - aka hannanhafeez 👋
 
 ## I'm a Learner, Doer, and a Tech Geek!
-- 🔭 I’m currently working as an iOS Developer and getting my hands dirty with React Native in parallel!
+- 🔭 I’m currently working as a React Native developer!
 - 🌱 I want to learn everything 🤣
-- 🥅 2021 Goals: Learn and use effecient design patters in my apps.
-- ⚡ Fun fact: I love to draw and listen to good old country music.
+- 🥅 2022 Goals: Learn and use effecient design patters MERN stack.
 
 ### Connect with me:
 
