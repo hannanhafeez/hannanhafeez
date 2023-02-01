@@ -3,7 +3,7 @@
 ## I'm a Learner, Doer, and a Tech Geek!
 - 🔭 I’m currently working as a React Native developer!
 - 🌱 I want to learn everything 🤣
-- 🥅 2022 Goals: Learn and use effecient design patters MERN stack.
+- 🥅 2023 Goals: Get better with React Native design patterns and learn Flutter to develop cross-platform apps.
 
 ### Connect with me:
 
