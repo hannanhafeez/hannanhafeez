@@ -1,6 +1,6 @@
-### Hi there, I'm Hannan - aka hannanhafeez 👋
+### Hi there, I'm Abdul Hannan - aka hannanhafeez 👋
 
-## I'm a Learner, Doer, and a Tech Geek!
+## I'm a Learner, a humble full-stack developer, and a tech geek!
 - 🔭 I’m currently working as a React Native developer!
 - 🌱 I want to learn everything 🤣
 - 🥅 2023 Goals: Get better with React Native design patterns and learn Flutter to develop cross-platform apps.
