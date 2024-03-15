@@ -1,9 +1,9 @@
 ### Hi there, I'm Abdul Hannan - aka hannanhafeez 👋
 
 ## I'm a Learner, a humble full-stack developer, and a tech geek!
-- 🔭 I’m currently working as a React Native developer!
+- 🔭 I’m currently working as a Next.js & React Native developer!
 - 🌱 I want to learn everything 🤣
-- 🥅 2023 Goals: Get better with React Native design patterns and learn Flutter to develop cross-platform apps.
+- 🥅 2024 Goals: Getting better as a Full-stack developer and learn at least one systems language.
 
 ### Connect with me:
 
