@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm Abdul Hannan<br><br>## I'm a learner, and a full-stack developer by profession!<br>- 🔭 I’m currently working as a Next.js & React Native developer!<br>- 🌱 I want to be learn a systems language.<br>- 🥅 2025 Goals: Getting better as a Full-stack developer and learn rust.
+## Hi there, I'm Abdul Hannan<br><br>## I'm a learner, and a full-stack developer by profession!<br>- 🔭 I’m currently working as a Next.js & React Native developer!<br>- 🌱 I want to be learn a systems language.<br>- 🥅 2025 Goals: Getting better as a Full-stack developer and learn rust.
 
 
 ## 🌐 Socials:
