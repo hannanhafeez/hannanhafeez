@@ -2,7 +2,7 @@
 ## I am Abdul Hannan, a full-stack developer by profession!<br>
 - 🔭 I’m currently working as a Next.js & React Native developer!<br>
 - 🌱 I want to learn a systems language.<br>
-- 🥅 2025 Goals: Getting better as a Full-stack developer, learning rust & exploring automation.
+- 🥅 2026 Goals: Getting better as a Full-stack developer, learning rust & exploring automation.
 
 
 ## 🌐 Socials:
@@ -19,3 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=hannanhafeez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
